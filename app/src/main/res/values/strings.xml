@@ -4,4 +4,8 @@
     <string name="text_to_speech_text">Text to speech</string>
     <string name="api_version_text">API version</string>
     <string name="serial_number_text">Serial number</string>
+
+    <string name="hint">Please enter some text</string>
+    <string name="speakButton">Speak</string>
+    <string name="backButton">Back</string>
 </resources>
