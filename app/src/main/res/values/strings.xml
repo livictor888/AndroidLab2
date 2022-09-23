@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLab2</string>
+    <string name="change_background_text">Change background</string>
+    <string name="text_to_speech_text">Text to speech</string>
+    <string name="api_version_text">API version</string>
+    <string name="serial_number_text">Serial number</string>
+</resources>
